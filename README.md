@@ -72,9 +72,7 @@ int main()
 ```
 
 ## OUTPUT:
-![image](https://github.com/surrey-78/Cryptography---19CS412-classical-techqniques/assets/119559366/27d805f8-0e5e-43b0-93fc-1315fe988c61)
-
-
+![alt text](<Screenshot 2024-10-21 104329.png>)
 
 ## RESULT:
 The program is executed successfully
